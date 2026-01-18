@@ -1,4 +1,4 @@
-import java.lang.invoke.StringConcatFactory;
+package Lab1;
 
 public class SongQuoteInfo {
     public static void main(String[] args) {
